@@ -1,0 +1,7 @@
+{
+  "clientId": "kafka-client",
+  "kafka": {
+    "brokers": ["kafka-1:9092", "kafka-2:9092", "kafka-3:9092"],
+    "topic": "gui-logs"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "app\\kafka-client"
+		}
+	],
+	"settings": {}
+}
